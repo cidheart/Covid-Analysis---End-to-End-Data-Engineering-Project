@@ -34,8 +34,8 @@ Performing data modeling, data wrangling and extract-load-transform using python
 * **Storing the dimensional model into Redshift**
 
 **ER-Data Model**
-![image-5.png](ER Model.png)
+<img src="ER Model.png">
 
 **Dimension Model**
 
-![image-6.png](Star Schema Model.png)
+<img src="Star Schema Model.png">
